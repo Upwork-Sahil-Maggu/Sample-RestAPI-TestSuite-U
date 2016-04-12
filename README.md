@@ -2,14 +2,23 @@
 
 This is a Sample Rest APi Test Framework.
 
-Features:-
+# Features:-
+
+
   *Can run on different envrironments-E2E,Perf or Prod etc..
+  
   *Can overrife paramters dynamically
+  
   *use of cookies
+  
   *Use of RestAssured
+  
   *Logging framework enabled
+  
   *Contains Basic Tests
+  
   *Profiling
+  
   *Multithreading.
 
 For more features Please contact me
