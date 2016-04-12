@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="TEP-RestAPI-FunctionalSuite" parallel="methods" data-provider-thread-count="1" thread-count="10">
+
+<test name="API Tests" preserve-order="true">
+    <classes>
+    	<class name="com.intuit.tep.prod.api.JobsAPITest" ></class> 
+    	
+    	  
+    </classes>
+</test>
+</suite>
